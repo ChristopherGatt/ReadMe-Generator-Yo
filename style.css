@@ -1,0 +1,53 @@
+.header {
+  font-size: 60px;
+  color: beige;
+  background-color: rgb(3, 85, 3);
+  text-align: center;
+  border: 7px solid gold;
+  text-shadow: 2px gold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  height: 250px;
+  padding-bottom: ;
+}
+
+.blank {
+  font-size: 5px;
+  color: white;
+}
+
+.readMeBody {
+  height: 350px;
+  background-color: rgb(3, 85, 3);
+  border: 7px solid black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.generator {
+  justify-content: center;
+  background-color: beige;
+  border: 7px solid black;
+  width: 1000px; /* Can be in percentage also. */
+  height: 250px;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+}
+
+h1 {
+  padding-top: 50px;
+}
+
+.clickHere {
+  width: 750px;
+  border: 3px solid black;
+}
+
+h3 {
+  font-size: 20px solid;
+}
+
+footer {
+  text-align: center;
+  font-size: 20px solid black;
+}
