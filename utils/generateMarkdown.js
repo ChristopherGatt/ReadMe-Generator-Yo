@@ -61,7 +61,9 @@ ${data.usage}
 ${data.github}
 
 ## Email
-${data.email}
+If you have any additional questions contact me on linkden or my email ${
+    data.email
+  }
 
 
 ${renderLicenseSection(data.license)}

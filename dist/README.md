@@ -1,8 +1,8 @@
-# frfr
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+# README
+  <img src="https://img.shields.io/badge/License-APACHE2.0-blue.svg">
 
   ## Description
-swswsz
+generate a read me!
 
 ## Table of Contents
 
@@ -20,18 +20,19 @@ swswsz
 
 
 ## Installation
-fcrcvf
+vscode, inquirer, node.js
 
 ## Usage
-undefined
+To generate a README file
 
 ## Github
-undefined
+ChristopherGAtt
 
 ## Email
-dsdw
+If you have any additional questions contact me on linkden or my email chris.gatt.3@gmail.com
+
 
 ## License
     
-    This project is licensed under MIT
+    This project is licensed under APACHE2.0
 

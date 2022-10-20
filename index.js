@@ -14,31 +14,31 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "provide a description of your project",
+    message: "provide a description of your project?",
   },
 
   {
     type: "input",
     name: "installation",
-    message: "provide installation instructions for your project",
+    message: "provide installation instructions for your project?",
   },
 
   {
     type: "input",
-    name: "Usage",
-    message: "what is the usage information for your project",
+    name: "usage",
+    message: "what is the usage information for your project?",
   },
 
   {
     type: "input",
     name: "contributing",
-    message: "what does your project contribute",
+    message: "what does your project contribute?",
   },
 
   {
     type: "input",
     name: "tests",
-    message: "how can your project be tested",
+    message: "how can your project be tested?",
   },
 
   {
@@ -50,7 +50,7 @@ const questions = [
 
   {
     type: "input",
-    name: "github username",
+    name: "github",
     message: "please enter your github username",
   },
 
