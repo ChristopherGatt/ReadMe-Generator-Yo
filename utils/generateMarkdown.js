@@ -42,14 +42,27 @@ ${data.description}
 
 * [Usage](#usage)
 
+* [Github](#github)
+
+* [Email](#email)
+
 
 
 ${renderLicenseLink(data.license)}
 
 
 ## Installation
+${data.installation}
 
 ## Usage
+${data.usage}
+
+## Github
+${data.github}
+
+## Email
+${data.email}
+
 
 ${renderLicenseSection(data.license)}
 

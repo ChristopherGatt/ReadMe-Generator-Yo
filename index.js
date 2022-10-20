@@ -20,7 +20,25 @@ const questions = [
   {
     type: "input",
     name: "installation",
-    message: "",
+    message: "provide installation instructions for your project",
+  },
+
+  {
+    type: "input",
+    name: "Usage",
+    message: "what is the usage information for your project",
+  },
+
+  {
+    type: "input",
+    name: "contributing",
+    message: "what does your project contribute",
+  },
+
+  {
+    type: "input",
+    name: "tests",
+    message: "how can your project be tested",
   },
 
   {
@@ -28,6 +46,18 @@ const questions = [
     name: "license",
     message: "what license is your project under?",
     choices: ["MIT", "APACHE2.0", "ISC", "GPL", "None"],
+  },
+
+  {
+    type: "input",
+    name: "github username",
+    message: "please enter your github username",
+  },
+
+  {
+    type: "input",
+    name: "email",
+    message: "please enter your email",
   },
 ];
 
